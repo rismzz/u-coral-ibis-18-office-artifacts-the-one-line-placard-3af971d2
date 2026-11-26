@@ -23,7 +23,7 @@ Logika plakat: stapler sebagai benda ritual peradaban "Late Open-Plan" yang hila
 ## Repo
 
 - https://github.com/rismzz/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2
-- Commit SHA final: (diisi setelah commit STATUS.md ini)
+- Commit SHA final: b7879b6ab61ba08b0124c75d12da4a570ad860b2 (commit STATUS.md; HEAD final setelah commit ini tercatat di laporan worker)
 - About: homepage https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2, topic `makefun` — terverifikasi via `gh repo view` (visibility PUBLIC).
 - File: main.py, README.md (3 badge live + footer referral ?ref=aa4mcy45), LICENSE (MIT), .makefun/owner.json (wallet GpjYmQrta6MUx3Xbg3WiBRnXzfUpcPWJV4SnXWGQuzux).
 
